@@ -37,17 +37,19 @@ ROCE example (2)
    A company is evaluating a project with an investment of $40,000. $17,500 profit is expected to be generated each year for eight years. Depreciation is charged on a straight line basis over the life of the project.
 Required: Estimate the simple payback period.
 
-4. You are required to assess whether the company is expected to accept or reject the following investment project given that the payback period for all investments should not exceed 4 years:
-                1) the cost of a new machine: $95,000
-                2) expected useful life of the machine: 4 years
-                3) anticipated scrap value of the machine: $15,000.
-                Furthermore, the company's finance director expects that annual net operating cash inflows for the years 1 to 4 will be as follows: $15,000, $35,000, $40,000, $10,000.
+4. You are required to assess whether the company is expected to accept or reject the following investment project given that
+  
+           the payback period for all investments should not exceed 4 years:
+                        1) the cost of a new machine: $95,000
+                        2) expected useful life of the machine: 4 years
+                        3) anticipated scrap value of the machine: $15,000.
+                        Furthermore, the company's finance director expects that annual net operating cash inflows for the years 1 to 4 will be as follows: $15,000, $35,000, $40,000, $10,000.
 
    Consider the Simple payback method –
    example (2), and assume that the discounted payback period for the company’s investment projects should not exceed 4 years. Cost of capital applicable to projects with similar risk and return characteristics is 6%. Evaluate whether or not the given
 investment project is going to be accepted.
 
-6. Free cash flow example 
+7. Free cash flow example 
 Calculate the free cash flow to firm and to equity based on the following figures:
 
         $000
