@@ -87,7 +87,15 @@ Decide whether the project is worthwhile, using:
 (a) net present value approach
 (b) internal rate of return approach.
 
-8. A project requires an initial investment of $24,000 and will generate following annual cash flows in years 1 to 5 (in US$): 7,800; 6,000; 4,200; 7,400; 9,200. The cost of capital is 10%.
+8. A project requires an initial investment of $24,000 and will generate following annual cash flows in years 1 to 5 (in US$):
+
+                year     annual cash flow  
+                1        7.800   
+                2        6000
+                3        4.200
+                4        7.400
+                5        9.200
+The cost of capital is 10%.
 Required:
 1) Find the NPV and the IRR of the project.
 2) Assume that funds can be borrowed at 10% whilst the reinvestment rate for positive cash flows is 12%. What is the MIRR?
