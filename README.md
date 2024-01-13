@@ -160,11 +160,11 @@ Required: Calculate the optimal replacement cycle if the cost of capital is 10%.
 
 16. Risk and uncertainty – test
 Dralin Co is considering an investment of $460,000 in a non-current asset expected to generate substantial cash inflows over the next five years. Unfortunately, the annual cash flows from this investment are uncertain, but the following probability distribution has been established:
-.
-              Annual cash flow ($)    Probability
-              50.000                     0,3
-              100.000                    0,5
-              150.000                    0,2
+
+                              Annual cash flow ($)    Probability
+                              50.000                     0,3
+                              100.000                    0,5
+                              150.000                    0,2
 
 At the end of its five-year life, the asset is expected to sell for $40,000. The cost of capital is 5%. Assess whether the investment should be undertaken?
 
