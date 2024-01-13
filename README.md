@@ -1,5 +1,12 @@
 Test : 
-1.Star Ltd.'s target ROCE is 20%. The company is considering a 4 years’ investment project with initial capital cost of $80,000, and the estimated profit before depreciation (in $’000) of20,25,35 and 25 in each of the years 1to 4 respectively. 
+1.Star Ltd.'s target ROCE is 20%. The company is considering a 4 years’ investment project with initial capital cost of $80,000, and the 
+        
+         Year    estimated profit before depreciation (in $’000) of 
+           1           20
+           2           25
+           3           35  
+           4           25  
+           
 The capital asset would be depreciated by 25% of its cost each year and will have no residual value. You are required to assess whether the project should be undertaken.
 
 ROCE example (2)
