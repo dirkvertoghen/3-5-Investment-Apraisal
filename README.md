@@ -30,7 +30,8 @@ Calculate the ROCE for 2021 and 2022 based on the below financial statements of 
     
         Tax                                      -66 300       -50 800     current liabilities 
         Net profit                               155 150       118 745     payables                179 590       345 480     332 000
-                                                                           Overdraft                              30 200      56 000                                                                        Tax                     62 000        55 000      70 400            
+                                                                           Overdraft                              30 200      56 000                                                                        
+                                                                           Tax                     62 000        55 000      70 400            
 
 3. simple payback
    A company is evaluating a project with an investment of $40,000. $17,500 profit is expected to be generated each year for eight years. Depreciation is charged on a straight line basis over the life of the project.
