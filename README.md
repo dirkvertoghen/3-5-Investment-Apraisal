@@ -11,7 +11,7 @@ The capital asset would be depreciated by 25% of its cost each year and will hav
 
 ROCE example (2)
 
-Calculate the ROCE for 2021 and 2022 based on the below financial statements of General Machines Ltd. (in $'000)
+2. Calculate the ROCE for 2021 and 2022 based on the below financial statements of General Machines Ltd. (in $'000)
    
                                                 2021         2022                                 2020         2021        2022
 
