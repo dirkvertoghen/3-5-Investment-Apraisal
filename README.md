@@ -96,7 +96,7 @@ Decide whether the project is worthwhile, using:
                 4        7.400
                 5        9.200
 The cost of capital is 10%.
-Required:
+required : 
 1) Find the NPV and the IRR of the project.
 2) Assume that funds can be borrowed at 10% whilst the reinvestment rate for positive cash flows is 12%. What is the MIRR?
 
