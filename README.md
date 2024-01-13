@@ -17,8 +17,8 @@ Calculate the ROCE for 2021 and 2022 based on the below financial statements of 
 
         Revenue Cost of sales Gross profit      1 159 850    1 391 820    Non current assets      341 400      509 590     667 040  
         Cost of sales                            -753 450    -1 050 825     Current assets 
-        Gross profit                              406 400       340 995   Inventory               88 760        109 400    173 000
-                                                                         Receivalbles            206 550       419 455    440 000
+        Gross profit                              406 400       340 995     Inventory               88 760        109 400    173 000
+                                                                            Receivalbles            206 550       419 455    440 000
 
 Operating expenses                       - 170 950    - 161 450    Bank                    95 400        66 405     64 675 
 Profit from operations                   - 235 450     179 545     Share capital           100 000       100 000    150 000
