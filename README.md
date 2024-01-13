@@ -10,39 +10,25 @@ Test :
 The capital asset would be depreciated by 25% of its cost each year and will have no residual value. You are required to assess whether the project should be undertaken.
 
 ROCE example (2)
+
 Calculate the ROCE for 2021 and 2022 based on the below financial statements of General Machines Ltd. (in $'000)
-Revenue Cost of sales Gross profit
-Operating expenses Profit from operations
-Finance costs Profits before tax
-Tax
-Net profit
-2021
-1 159 850 -753 450 406 400
--170 950 235 450
--14 000 221 450
--66 300 155 150
-2022
-1 391 820 -1 050 825 340 995
--161 450 179 545
--10 000 169 545
--50 800 118 745
-Non-current assets Current assets
-Inventory Receivables Bank
-Share capital
-Share premium Revaluation reserve Retained earnings Non-current liabilities Current liabilities
-Payables Overdraft Tax
-2020
-341 400
-88 760 206 550 95 400 100 000 20 000 0 287 420 83 100
-179 590 62 000
-2021
-509 590
-109 400 419 455 66 405 100 000 20 000 50 000 442 570 61 600
-345 480 30 200 55 000
-2022
-667 040
-173 000 440 000 64 675 150 000 50 000 50 000 561 315 75 000
-332 000 56 000 70 400
+                                         2021         2022                                 2020         2021        2022
+Revenue Cost of sales Gross profit       1 159 850    1 391 820    Non current assets      341 400      509 590     667 040  
+Cost of sales                            -753 450    -1 050 825    Current assets 
+Gross profit                              406 400       340 995    Inventory               88 760        109 400    173 000
+                                                                   Receivalbles            206 550       419 455    440 000
+
+Operating expenses                       - 170 950    - 161 450    Bank                    95 400        66 405     64 675 
+Profit from operations                   - 235 450     179 545     Share capital           100 000       100 000    150 000
+                                                                   share premium           20 000        20 000     20 000
+
+Finance costs                            -14 000       -10 000     Revaluation reserve      0            50 000      50 000
+Profits before tax                       221 450       169 5445    Retained earnings       287 420       442 570     561 315 
+                                                                   Non-current liabilities 83 100        61 600      75 000
+    
+Tax                                      -66 300       -50 800     current liabilities 
+Net profit                               155 150       118 745     payables                179 590       345 480     332 000
+                                                                   Overdraft                              30 200      56 000                                                                        Tax                     62 000        55 000      70 400            
 
 3. simple payback
    A company is evaluating a project with an investment of $40,000. $17,500 profit is expected to be generated each year for eight years. Depreciation is charged on a straight line basis over the life of the project.
