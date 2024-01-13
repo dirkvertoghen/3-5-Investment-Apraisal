@@ -20,9 +20,9 @@ Calculate the ROCE for 2021 and 2022 based on the below financial statements of 
         Gross profit                              406 400       340 995     Inventory               88 760        109 400    173 000
                                                                             Receivalbles            206 550       419 455    440 000
 
-Operating expenses                       - 170 950    - 161 450    Bank                    95 400        66 405     64 675 
-Profit from operations                   - 235 450     179 545     Share capital           100 000       100 000    150 000
-                                                                   share premium           20 000        20 000     20 000
+        Operating expenses                       - 170 950    - 161 450    Bank                    95 400        66 405     64 675 
+        Profit from operations                   - 235 450     179 545     Share capital           100 000       100 000    150 000
+                                                                           share premium           20 000        20 000     20 000
 
 Finance costs                            -14 000       -10 000     Revaluation reserve      0            50 000      50 000
 Profits before tax                       221 450       169 5445    Retained earnings       287 420       442 570     561 315 
