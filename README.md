@@ -63,7 +63,7 @@ Calculate the free cash flow to firm and to equity based on the following figure
         Tax paid                                                         140
    
 
-7.Free cash flow – Test
+8 .F ree cash flow – Test
 Required:
 (1) Calculate the free cash flow to firm and to equity based on the following figures
 (2) Calculate the dividend cover based on the free cash flow to equity and interpret your result.
