@@ -53,14 +53,15 @@ investment project is going to be accepted.
 Calculate the free cash flow to firm and to equity based on the following figures:
 
         $000
-        Net operating profit (before interest and tax)  300
-        Depreciation 120
-        Increase in working capital 50
-        Capital expenditure to replace existing assets 10
-        Capital expenditure on new investments 15
-        Interest paid 5
-        Loans repaid 20
-        Tax paid 140
+        Net operating profit (before interest and tax)                  300
+        Depreciation                                                    120
+        Increase in working capital                                      50
+        Capital expenditure to replace existing assets                   10
+        Capital expenditure on new investments                           15
+        Interest paid                                                     5
+        Loans repaid                                                     20
+        Tax paid                                                         140
+   
 
 7.Free cash flow – Test
 Required:
